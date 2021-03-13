@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CodeKaptain
 - 👀 I’m interested in Data Engineering
 - 🌱 I’m currently learning Machine learning and natural language processing 
-- 💞️ I’m looking to collaborate on Data Enginerring projects
+- 💞️ I’m looking to collaborate on Data Engineering projects
 - 📫 How to reach me: michaelayua@gmail.com
 
 <!---
